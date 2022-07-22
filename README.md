@@ -1,0 +1,2 @@
+# Scrabble
+trivial scrabble game
